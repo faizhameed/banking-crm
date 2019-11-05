@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="768" viewBox="0 0 1024 768">
+  <defs>
+    <clipPath id="clip-SMS">
+      <rect width="1024" height="768"/>
+    </clipPath>
+  </defs>
+  <g id="SMS" clip-path="url(#clip-SMS)">
+    <rect width="1024" height="768" fill="#fff"/>
+    <g id="Rectangle_639" data-name="Rectangle 639" transform="translate(424 234)" fill="none" stroke="#0093dd" stroke-width="1" stroke-dasharray="8">
+      <rect width="122" height="27" rx="13.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="121" height="26" rx="13" fill="none"/>
+    </g>
+    <g id="Rectangle_640" data-name="Rectangle 640" transform="translate(424 371)" fill="none" stroke="#0093dd" stroke-width="1" stroke-dasharray="8">
+      <rect width="122" height="27" rx="13.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="121" height="26" rx="13" fill="none"/>
+    </g>
+    <g id="Rectangle_642" data-name="Rectangle 642" transform="translate(302 371)" fill="none" stroke="#0093dd" stroke-width="1" stroke-dasharray="8">
+      <rect width="122" height="27" rx="13.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="121" height="26" rx="13" fill="none"/>
+    </g>
+    <g id="Rectangle_641" data-name="Rectangle 641" transform="translate(424 508)" fill="none" stroke="#0093dd" stroke-width="1" stroke-dasharray="8">
+      <rect width="122" height="27" rx="13.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="121" height="26" rx="13" fill="none"/>
+    </g>
+    <rect id="Rectangle_424" data-name="Rectangle 424" width="1024" height="40" fill="#16325c"/>
+    <text id="CROSS_-_SELLING_AND_UPSELL" data-name="CROSS - SELLING AND UPSELL" transform="translate(38 64)" fill="#16325c" font-size="18" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="10.654" y="18">CROSS - SELLING AND UPSELL</tspan></text>
+    <text id="CAR_LOAN" data-name="CAR LOAN" transform="translate(713.5 236)" fill="#16325c" font-size="18" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="-45.846" y="0">CAR LOAN</tspan></text>
+    <text id="HOME_LOAN" data-name="HOME LOAN" transform="translate(721.5 391)" fill="#16325c" font-size="18" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="-54.018" y="0">HOME LOAN</tspan></text>
+    <text id="WALK_IN_INQUIRY" data-name="WALK IN INQUIRY" transform="translate(743.5 529)" fill="#16325c" font-size="18" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="-76.284" y="0">WALK IN INQUIRY</tspan></text>
+    <rect id="Rectangle_638" data-name="Rectangle 638" width="38" height="456" rx="19" transform="translate(405 156)" fill="#c2e8fc"/>
+    <g id="Group_385" data-name="Group 385" transform="translate(17 -14)">
+      <g id="Group_384" data-name="Group 384" transform="translate(122.975 307)">
+        <g id="Group_295" data-name="Group 295" transform="translate(0 0)">
+          <circle id="Ellipse_247" data-name="Ellipse 247" cx="91.5" cy="91.5" r="91.5" transform="translate(0.025)" fill="#e0f5ff"/>
+        </g>
+      </g>
+      <g id="Group_289" data-name="Group 289" transform="translate(157.218 341.244)">
+        <circle id="Ellipse_249" data-name="Ellipse 249" cx="57.5" cy="57.5" r="57.5" transform="translate(-0.218 -0.244)" fill="#ffd246"/>
+        <g id="Outline_Icon" data-name="Outline Icon" transform="translate(36.796 25.889)">
+          <path id="Path_845" data-name="Path 845" d="M50.535,18H29.307A5.313,5.313,0,0,0,24,23.307V36.044a5.313,5.313,0,0,0,5.307,5.307h3.524l3.006,4.808a1.061,1.061,0,0,0,1.8,0l3-4.808h9.892a5.313,5.313,0,0,0,5.307-5.307V23.307A5.313,5.313,0,0,0,50.535,18ZM53.72,36.044a3.184,3.184,0,0,1-3.184,3.184H40.054a1.061,1.061,0,0,0-.9.5l-2.417,3.867L34.32,39.727a1.061,1.061,0,0,0-.9-.5H29.307a3.184,3.184,0,0,1-3.184-3.184V23.307a3.184,3.184,0,0,1,3.184-3.184H50.535a3.184,3.184,0,0,1,3.184,3.184Z" transform="translate(-9.14 -1.017)" fill="#0093dd"/>
+          <path id="Path_846" data-name="Path 846" d="M48.044,25H31.061a1.061,1.061,0,0,0,0,2.123H48.044a1.061,1.061,0,0,0,0-2.123Z" transform="translate(-8.772 -0.587)" fill="#0093dd"/>
+          <path id="Path_847" data-name="Path 847" d="M48.044,30H31.061a1.061,1.061,0,0,0,0,2.123H48.044a1.061,1.061,0,0,0,0-2.123Z" transform="translate(-8.772 -0.28)" fill="#0093dd"/>
+          <path id="Path_848" data-name="Path 848" d="M45.027,45.518a1.061,1.061,0,0,0-1.061,1.061v5.307H12.123V13.676H43.965V15.8a1.061,1.061,0,1,0,2.123,0V8.369A6.375,6.375,0,0,0,39.72,2H16.369A6.375,6.375,0,0,0,10,8.369V59.317a6.375,6.375,0,0,0,6.369,6.369H39.72a6.375,6.375,0,0,0,6.369-6.369V46.58A1.061,1.061,0,0,0,45.027,45.518ZM16.369,4.123H39.72a4.246,4.246,0,0,1,4.246,4.246v3.184H12.123V8.369A4.246,4.246,0,0,1,16.369,4.123ZM39.72,63.562H16.369a4.246,4.246,0,0,1-4.246-4.246V54.01H43.965v5.307A4.246,4.246,0,0,1,39.72,63.562Z" transform="translate(-10 -2)" fill="#0093dd"/>
+          <path id="Path_849" data-name="Path 849" d="M23.561,8.623h7.43a1.061,1.061,0,1,0,0-2.123h-7.43a1.061,1.061,0,0,0,0,2.123Z" transform="translate(-9.232 -1.724)" fill="#0093dd"/>
+          <path id="Path_850" data-name="Path 850" d="M27.215,52a3.715,3.715,0,1,0,3.715,3.715A3.715,3.715,0,0,0,27.215,52Zm0,5.307a1.592,1.592,0,1,1,1.592-1.592A1.592,1.592,0,0,1,27.215,57.307Z" transform="translate(-9.171 1.071)" fill="#0093dd"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_386" data-name="Group 386" transform="translate(368 -151)">
+      <g id="Group_289-2" data-name="Group 289" transform="translate(157.218 341.244)">
+        <circle id="Ellipse_249-2" data-name="Ellipse 249" cx="57.5" cy="57.5" r="57.5" transform="translate(-0.218 -0.244)" fill="#ffd246"/>
+        <g id="Outline_Icon-2" data-name="Outline Icon" transform="translate(14.15 19.889)">
+          <path id="Path_845-2" data-name="Path 845" d="M71.074,18H33.415A9.426,9.426,0,0,0,24,27.415v22.6a9.426,9.426,0,0,0,9.415,9.415h6.251L45,67.955a1.883,1.883,0,0,0,3.2,0l5.325-8.53H71.074a9.426,9.426,0,0,0,9.415-9.415v-22.6A9.426,9.426,0,0,0,71.074,18Zm5.649,32.01a5.649,5.649,0,0,1-5.649,5.649H52.48a1.883,1.883,0,0,0-1.6.885L46.6,63.4l-4.287-6.86a1.883,1.883,0,0,0-1.6-.885h-7.3a5.649,5.649,0,0,1-5.649-5.649v-22.6a5.649,5.649,0,0,1,5.649-5.649H71.074a5.649,5.649,0,0,1,5.649,5.649Z" transform="translate(-9.14 -1.017)" fill="#0093dd"/>
+          <path id="Path_846-2" data-name="Path 846" d="M62.01,25H31.883a1.883,1.883,0,0,0,0,3.766H62.01a1.883,1.883,0,0,0,0-3.766Z" transform="translate(-3.842 5.163)" fill="#0093dd"/>
+          <path id="Path_847-2" data-name="Path 847" d="M62.01,30H31.883a1.883,1.883,0,0,0,0,3.766H62.01a1.883,1.883,0,0,0,0-3.766Z" transform="translate(-3.842 9.578)" fill="#0093dd"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_387" data-name="Group 387" transform="translate(368 -14)">
+      <g id="Group_289-3" data-name="Group 289" transform="translate(157.218 341.244)">
+        <circle id="Ellipse_249-3" data-name="Ellipse 249" cx="57.5" cy="57.5" r="57.5" transform="translate(-0.218 -0.244)" fill="#ffd246"/>
+        <g id="Outline_Icon-3" data-name="Outline Icon" transform="translate(14.15 19.889)">
+          <path id="Path_845-3" data-name="Path 845" d="M71.074,18H33.415A9.426,9.426,0,0,0,24,27.415v22.6a9.426,9.426,0,0,0,9.415,9.415h6.251L45,67.955a1.883,1.883,0,0,0,3.2,0l5.325-8.53H71.074a9.426,9.426,0,0,0,9.415-9.415v-22.6A9.426,9.426,0,0,0,71.074,18Zm5.649,32.01a5.649,5.649,0,0,1-5.649,5.649H52.48a1.883,1.883,0,0,0-1.6.885L46.6,63.4l-4.287-6.86a1.883,1.883,0,0,0-1.6-.885h-7.3a5.649,5.649,0,0,1-5.649-5.649v-22.6a5.649,5.649,0,0,1,5.649-5.649H71.074a5.649,5.649,0,0,1,5.649,5.649Z" transform="translate(-9.14 -1.017)" fill="#0093dd"/>
+          <path id="Path_846-3" data-name="Path 846" d="M62.01,25H31.883a1.883,1.883,0,0,0,0,3.766H62.01a1.883,1.883,0,0,0,0-3.766Z" transform="translate(-3.842 5.163)" fill="#0093dd"/>
+          <path id="Path_847-3" data-name="Path 847" d="M62.01,30H31.883a1.883,1.883,0,0,0,0,3.766H62.01a1.883,1.883,0,0,0,0-3.766Z" transform="translate(-3.842 9.578)" fill="#0093dd"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_388" data-name="Group 388" transform="translate(368 123)">
+      <g id="Group_289-4" data-name="Group 289" transform="translate(157.218 341.244)">
+        <circle id="Ellipse_249-4" data-name="Ellipse 249" cx="57.5" cy="57.5" r="57.5" transform="translate(-0.218 -0.244)" fill="#ffd246"/>
+        <g id="Outline_Icon-4" data-name="Outline Icon" transform="translate(14.15 19.889)">
+          <path id="Path_845-4" data-name="Path 845" d="M71.074,18H33.415A9.426,9.426,0,0,0,24,27.415v22.6a9.426,9.426,0,0,0,9.415,9.415h6.251L45,67.955a1.883,1.883,0,0,0,3.2,0l5.325-8.53H71.074a9.426,9.426,0,0,0,9.415-9.415v-22.6A9.426,9.426,0,0,0,71.074,18Zm5.649,32.01a5.649,5.649,0,0,1-5.649,5.649H52.48a1.883,1.883,0,0,0-1.6.885L46.6,63.4l-4.287-6.86a1.883,1.883,0,0,0-1.6-.885h-7.3a5.649,5.649,0,0,1-5.649-5.649v-22.6a5.649,5.649,0,0,1,5.649-5.649H71.074a5.649,5.649,0,0,1,5.649,5.649Z" transform="translate(-9.14 -1.017)" fill="#0093dd"/>
+          <path id="Path_846-4" data-name="Path 846" d="M62.01,25H31.883a1.883,1.883,0,0,0,0,3.766H62.01a1.883,1.883,0,0,0,0-3.766Z" transform="translate(-3.842 5.163)" fill="#0093dd"/>
+          <path id="Path_847-4" data-name="Path 847" d="M62.01,30H31.883a1.883,1.883,0,0,0,0,3.766H62.01a1.883,1.883,0,0,0,0-3.766Z" transform="translate(-3.842 9.578)" fill="#0093dd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
